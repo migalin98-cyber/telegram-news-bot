@@ -2,3 +2,5 @@ pyTelegramBotAPI
 feedparser
 schedule
 redis
+deep-translator
+SpeechRecognition
