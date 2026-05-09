@@ -2,3 +2,4 @@ pyTelegramBotAPI
 feedparser
 schedule
 redis
+edge-tts
